@@ -1,3 +1,5 @@
+**Coca-Cola Sales & Profit Performance Report 2022**
+
 **Project Overview**
 
 In this analysis, I examined Coca-Cola’s sales performance across retailers, regions, and states, while also evaluating operating profit, monthly sales trends, top beverage brands, and delivery efficiency. The goal was to identify patterns, highlight areas for growth, and suggest data-driven recommendations to improve profitability and efficiency.
