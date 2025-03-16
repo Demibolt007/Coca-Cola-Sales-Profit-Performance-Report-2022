@@ -42,6 +42,10 @@ _**Delivery Performance**_
 2. Delivery efficiency is generally consistent, but minor improvements could enhance logistics.
 
 
+![Coca-Cola Sales   Profit Performance Report 2022](https://github.com/user-attachments/assets/dbd77c0c-a72e-46da-962e-3ee58224a443)
+
+
+
 **Key Takeaways & Recommendations**
 
 _**Retail Strategy Optimization**_
