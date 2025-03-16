@@ -10,6 +10,7 @@ Coca-Cola is a global leader in the beverage industry, operating in over 200 cou
 
 
 **Project Objectives**
+
 This analysis aimed to answer key business questions, including:
 
 1. Which retailers contribute the most to total sales?
