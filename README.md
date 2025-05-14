@@ -93,8 +93,6 @@ All visualisations were created using Microsoft Excel and are available in the E
 - 🗺️ Regional Profit Distribution
 - 🧁 Pie Charts (Beverage Distribution, Retailer Share)
 
-📂 [View the Excel Analysis Workbook »](./Coca-Cola-Sales-Profit-Workbook.xlsx)
-
 ![TASK 15B - Adeniyi Oluwademilade Adedamola 2](https://github.com/user-attachments/assets/a16e4257-1be5-42c0-bdb8-8ed5b8276254)
 
 ---
