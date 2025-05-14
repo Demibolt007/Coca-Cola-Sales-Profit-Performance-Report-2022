@@ -1,76 +1,133 @@
-**Coca-Cola Sales & Profit Performance Report 2022**
+# 🥤 Coca-Cola Sales & Operating Profit Performance Report
 
-**Project Overview**
+A detailed analytical report on Coca-Cola’s sales and operating profit across U.S. retailers, regions, and time periods — conducted using Microsoft Excel. This project offers business insights, data visualisations, and actionable recommendations.
 
-In this analysis, I examined Coca-Cola’s sales performance across retailers, regions, and states, while also evaluating operating profit, monthly sales trends, top beverage brands, and delivery efficiency. The goal was to identify patterns, highlight areas for growth, and suggest data-driven recommendations to improve profitability and efficiency.
+---
 
-**Introduction**
+## 📌 Overview
 
-Coca-Cola is a global leader in the beverage industry, operating in over 200 countries with a diverse product portfolio that includes soft drinks, bottled water, and sports drinks. Understanding its sales performance, customer preferences, and operational efficiency is crucial for maintaining a competitive edge and optimizing business strategies.
+This project analyses Coca-Cola’s beverage sales performance using a real-world business dataset. The analysis spans across:
+- Retailers (e.g., Walmart, CVS)
+- U.S. States and Regions
+- Beverage Products (Coca-Cola, Diet Coke, Dasani)
+- Operating Profits and Units Sold
+- Monthly Trends and Seasonality
 
+---
 
+## 📁 Table of Contents
 
+- [Project Objective](#project-objective)
+- [Dataset Details](#dataset-details)
+- [Tools Used](#tools-used)
+- [Analysis Workflow](#analysis-workflow)
+- [Key Insights](#key-insights)
+- [Visualizations](#visualizations)
+- [Recommendations](#recommendations)
+- [Limitations & Next Steps](#limitations--next-steps)
+- [Author](#author)
 
-**Project Objectives**
+---
 
-This analysis aimed to answer key business questions, including:
+## 🎯 Project Objective
 
-1. Which retailers contribute the most to total sales?
-2. How does sales performance vary by region and state?
-3. What are the monthly trends in total sales and operating profit?
-4. Which Coca-Cola beverage brands are the best-selling?
-5. How do delivery companies compare in terms of efficiency?
+To evaluate Coca-Cola’s sales and profit trends across different dimensions and provide strategic recommendations that drive business growth and efficiency.
 
-**Notable Observations**
+---
 
-**_Retail Sales Contribution_**
-1. Walmart is the top retailer, generating $4.4M in total sales, followed by CVS ($2.1M) and Costco ($1.3M).
-2. Target contributes the least among major retailers, with $404K in sales.
+## 📊 Dataset Details
 
-_**Regional & State Sales Trends**_
-1. The West leads in operating profit ($790K), followed by the Southeast ($641K) and Northeast ($629K).
-2. California ($582K) and New York ($582K) have the highest total sales, while Nebraska ($54K) has the lowest.
+- **Source**: Provided as part of a data analytics training project
+- **Scope**: U.S. market (Retailers, States, Regions)
+- **Key Variables**:
+  - Total Sales
+  - Operating Profit
+  - Beverage Types
+  - Delivery Mode & Time
+  - Month, Season
 
-_**Monthly Sales & Profit Trends**_
-1. December ($985K) and July ($970K) saw the highest sales, aligning with holiday and summer demand peaks.
-2. Operating profit follows a similar pattern, with December ($366K) being the most profitable month.
+---
 
-_**Top-Selling Beverage Brands**_
-1. Coca-Cola (3.99M units) leads in unit sales, followed by Dasani Water (2.89M units) and Diet Coke (2.87M units).
-2. Powerade and Fanta rank lower, suggesting potential areas for targeted marketing.
+## 🛠 Tools Used
 
-_**Delivery Performance**_
-1. FedEx has the shortest average delivery time (36.86 days), while UPS has the longest (37.5 days).
-2. Delivery efficiency is generally consistent, but minor improvements could enhance logistics.
+- **Microsoft Excel**  
+  - Pivot Tables  
+  - Charts & Dashboards
 
+---
 
-![Coca-Cola Sales   Profit Performance Report 2022](https://github.com/user-attachments/assets/dbd77c0c-a72e-46da-962e-3ee58224a443)
+## 🔍 Analysis Workflow
 
+### 1. Data Cleaning
+- Removed duplicates
+- Fixed inconsistencies in region/state names
+- Handled missing values using interpolation or median imputation
 
+### 2. Data Transformation
+- Added new columns for month, season, and delivery category
+- Segmented by beverage type and delivery mode
 
-**Key Takeaways & Recommendations**
+### 3. Exploratory Analysis
+- Identified retailer performance
+- Tracked monthly and seasonal sales/profit trends
+- Analysed operating profit per state and region
 
-_**Retail Strategy Optimization**_
-1. Focus marketing and supply chain efforts on high-performing retailers like Walmart and CVS.
-2. Strengthen Target’s sales performance through promotions, bundle deals, or in-store activations.
+---
 
-**_Regional & Seasonal Sales Growth_**
-1. Capitalize on strong sales in California and New York by expanding distribution channels and advertising efforts.
-2. Leverage peak sales months (July & December) with targeted seasonal promotions to maximize revenue.
+## 📈 Key Insights
 
-**_Beverage Brand Expansion_**
+- **Top Retailers**: Walmart and CVS contributed over 50% of total sales.
+- **Top States**: California and Texas led in both sales and profits.
+- **Seasonality**: Summer months saw the highest sales volumes and profit spikes.
+- **Delivery Trends**: USPS and FedEx had shorter average delivery times.
+- **Beverage Preference**: Coca-Cola was the highest-selling beverage.
 
-1. Double down on high-demand products like Coca-Cola and Dasani, ensuring adequate inventory and marketing.
-2. Improve sales of lower-ranking beverages (Powerade, Fanta) through bundled promotions or rebranding efforts.
+---
 
-**_Logistics & Delivery Efficiency_**
+## 📊 Visualizations
 
-1. Analyze UPS’s slightly higher delivery times and optimize routes to reduce delays.
-2. Consider incentives for faster delivery services to enhance customer satisfaction.
+All visualisations were created using Microsoft Excel and are available in the Excel workbook:
 
+- 📉 Line Charts (Sales/Profit Trends by Month)
+- 📊 Bar Charts (Retailer Contributions)
+- 🗺️ Regional Profit Distribution
+- 🧁 Pie Charts (Beverage Distribution, Retailer Share)
 
+📂 [View the Excel Analysis Workbook »](./Coca-Cola-Sales-Profit-Workbook.xlsx)
 
+![TASK 15B - Adeniyi Oluwademilade Adedamola 2](https://github.com/user-attachments/assets/a16e4257-1be5-42c0-bdb8-8ed5b8276254)
 
-This analysis provides a comprehensive look into Coca-Cola’s sales trends, operational performance, and growth opportunities. By implementing these recommendations, Coca-Cola can enhance sales, improve efficiency, and strengthen its market position.
+---
 
+## ✅ Recommendations
 
+- **Retail Strategy**: Focus marketing on Walmart & CVS.
+- **Regional Investment**: Expand presence in the West and Southeast regions.
+- **Inventory Planning**: Prepare for summer demand spikes.
+- **Logistics Optimisation**: Favour USPS and FedEx for cost-effective delivery.
+
+---
+
+## ⚠️ Limitations & Next Steps
+
+### Limitations
+- The dataset lacks customer-level data or marketing expenditure details
+
+### Next Steps
+- Integrate customer demographics
+- Combine with marketing spend to assess ROI
+- Apply similar analysis to international markets
+
+---
+
+## 👤 Author
+
+**Oluwademilade Adeniyi (Demibolt)**  
+🎓 Data Analyst | Excel Enthusiast | Lifelong Learner  
+🔗 [LinkedIn](https://linkedin.com/in/demibolt/)  
+🔗 [X(Twitter)](https://x.com/demibolt_)
+📁 [GitHub Portfolio](https://github.com/Demibolt007)
+
+---
+
+> ⭐ _If you found this project insightful, please star the repo to support my work!_
